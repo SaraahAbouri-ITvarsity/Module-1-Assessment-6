@@ -1,0 +1,152 @@
+.menu{
+    background-color: navy;
+    width: 100%;
+    height: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    position: fixed;
+    
+    
+}
+.menu b{
+    color: black;
+    background-color: orangered ;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+
+.menu a{
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+
+/* index page  */
+
+body{
+    margin: 0px;
+    padding: 0px;
+    margin-top: -21px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.picnerf img{
+    width: 20%;
+    height: 10%;
+}
+.heading{
+    padding-top: 85px;
+}
+
+.index{
+    padding-left: 10px;
+}
+
+/* product pages */
+
+.pics img{
+    width:150px;
+    height: 120px;
+}
+ h1{
+    padding-top: 90px;
+ }
+
+.product{
+    
+    margin-left: 10px;
+}
+
+table{
+    border-collapse: collapse;
+    border-style: solid;
+    width: 700px;
+    
+}
+
+table, th, td{
+    border: 2px solid black;
+    background-color: white;
+   
+}
+
+button{
+    color: black;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:bold;
+    border-radius: 5px;
+    font-weight: 100px;
+    border: none;
+    width: 90px;
+    height: 25px;
+
+}
+ /* nerf page  */
+.nerf{
+    width: 20%;
+    height: 10%;
+}
+
+/* contact us page  */
+
+.us{
+    background-color: white;
+    color: black;
+}
+
+.contact{
+    padding-left: 20px;
+    
+}
+
+.form{
+    width:200px;
+    height: 20px;
+    display: block;
+}
+
+.form1{
+    width:300px;
+    height: 20px;
+    display: block;
+}
+
+.form2{
+    width: 30%;
+    height: calc(1.5em + 0.75rem + 2px);
+    display: block;
+    line-height: 1.5;
+}
+
+input{
+    border: black 2px solid;
+}
+
+textarea{
+    border: black 2px solid;
+}
+
+.submit{
+    background-color: blue;
+    color: black;
+}
+
+ /* about us page */
+.about{
+ text-align: center;
+ padding-left: 90px;
+ padding-right: 90px;
+ 
+}
+
+.pic img{
+    padding-left: 570px;
+}
+
